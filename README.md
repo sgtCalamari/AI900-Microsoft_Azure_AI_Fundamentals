@@ -13,3 +13,4 @@ Notes from Microsoft Learn collection: [Master the basics of Azure: AI Fundament
     - [Use Automated Machine Learning in Azure Machine Learning](./Explore_visual_tools_for_machine_learning/Use_Automated_Machine_Learning_in_Azure_Machine_Learning.md)
     - [Create a regression model with Azure Machine Learning designer](./Explore_visual_tools_for_machine_learning/Create_a_regression_model_with_Azure_Machine_Learning_designer.md)
     - [Create a classification model with Azure Machine Learning designer](./Explore_visual_tools_for_machine_learning/Create_a_classification_model_with_Azure_Machine_Learning_designer.md)
+    - [Create a clustering model with Azure Machine Learning designer](./Explore_visual_tools_for_machine_learning/Create_a_clustering_model_with_Azure_Machine_Learning_designer.md)
