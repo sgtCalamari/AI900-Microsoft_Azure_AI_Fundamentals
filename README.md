@@ -14,3 +14,5 @@ Notes from Microsoft Learn collection: [Master the basics of Azure: AI Fundament
     - [Create a regression model with Azure Machine Learning designer](./Explore_visual_tools_for_machine_learning/Create_a_regression_model_with_Azure_Machine_Learning_designer.md)
     - [Create a classification model with Azure Machine Learning designer](./Explore_visual_tools_for_machine_learning/Create_a_classification_model_with_Azure_Machine_Learning_designer.md)
     - [Create a clustering model with Azure Machine Learning designer](./Explore_visual_tools_for_machine_learning/Create_a_clustering_model_with_Azure_Machine_Learning_designer.md)
+- [Explore computer vision](./Explore_computer_vision/)
+    - [Analyze images with the Computer Vision service](./Explore_computer_vision/Analyze_images_with_the_Computer_Vision_service.md)
