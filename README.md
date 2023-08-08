@@ -18,3 +18,4 @@ Notes from Microsoft Learn collection: [Master the basics of Azure: AI Fundament
     - [Analyze images with the Computer Vision service](./Explore_computer_vision/Analyze_images_with_the_Computer_Vision_service.md)
     - [Classify images with the Custom Vision service](./Explore_computer_vision/Classify_images_with_the_Custom_Vision_service.md)
     - [Detect objects in images with the Custom Vision service](./Explore_computer_vision/Detect_objects_in_images_with_the_Custom_Vision_service.md)
+    - [Detect and analyze faces with the Face service](./Explore_computer_vision/Detect_and_analyze_faces_with_the_Face_service.md)
