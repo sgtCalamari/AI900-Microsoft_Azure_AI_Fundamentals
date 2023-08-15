@@ -19,3 +19,8 @@ Notes from Microsoft Learn collection: [Master the basics of Azure: AI Fundament
     - [Classify images with the Custom Vision service](./Explore_computer_vision/Classify_images_with_the_Custom_Vision_service.md)
     - [Detect objects in images with the Custom Vision service](./Explore_computer_vision/Detect_objects_in_images_with_the_Custom_Vision_service.md)
     - [Detect and analyze faces with the Face service](./Explore_computer_vision/Detect_and_analyze_faces_with_the_Face_service.md)
+    - [Analyze receipts with the Form Recognizer service](./Explore_computer_vision/Analyze_receipts_with_the_Form_Recognizer_service.md)
+- [Explore decision support](./Explore_decision_support/)
+    - [Introduction to Anomaly Detector](./Explore_decision_support/Introduction_to_Anomaly_Detector.md)
+- [Explore knowledge mining](./Explore_knowledge_mining/)
+    - [Introduction to Azure Cognitive Search](./Explore_knowledge_mining/Introduction_to_Azure_Cognitive_Search.md)
